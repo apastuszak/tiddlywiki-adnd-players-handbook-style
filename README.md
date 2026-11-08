@@ -6,6 +6,6 @@ This embeds a modified version of the open source font Jost and some style sheet
 
 The style support 1-column layout and 2-column layouts.
 
-![](1-coloumn layout.webp)
+![1-column layout](./1-coloumn%20layout.webp)
 
-![](2-column layout.webp)
+![2-column layout](./2-column%20layout.webp)
