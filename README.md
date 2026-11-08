@@ -6,6 +6,6 @@ This embeds a modified version of the open source font Jost and some style sheet
 
 The style support 1-column layout and 2-column layouts.
 
-![](/Users/andy/github/tiddlywiki-adnd-players-handbook-style/1-coloumn layout.webp)
+![](1-coloumn layout.webp)
 
-![](/Users/andy/github/tiddlywiki-adnd-players-handbook-style/2-column layout.webp)
+![](2-column layout.webp)
